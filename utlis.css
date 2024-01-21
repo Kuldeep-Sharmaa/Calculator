@@ -1,0 +1,21 @@
+.head {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  font-family: sans-serif "Roboto";
+  font-size: 40px;
+}
+.container {
+  margin-top: 20px;
+  background: rgb(70, 140, 122);
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 325px;
+  height: 60vh;
+  border-radius: 10px;
+  border: 2px solid black;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
+}

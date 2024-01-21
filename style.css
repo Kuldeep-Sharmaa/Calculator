@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.button {
+  padding: 18px;
+  margin: 1px 2px;
+  border: 2px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.button:hover {
+  color: aquamarine;
+  background-color: #074343;
+}
+.row {
+  margin-top: 5px;
+}
+.row input {
+  font-size: 19px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: 2px solid black;
+  margin: 20px 0px;
+}
