@@ -23,3 +23,30 @@
   border: 2px solid black;
   margin: 20px 0px;
 }
+
+.love {
+  display: flex;
+  justify-content: center;
+  margin-top: 20vh;
+  font-family: "Courier New";
+  align-items: center;
+  color: #8a8f99;
+}
+
+.art {
+  margin: 5px;
+  font-weight: 800;
+  color: rgb(199, 25, 25);
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  margin-top: 30px;
+}
+
+.icons a {
+  color: #8a8f99;
+  margin: 0px 25px;
+}
